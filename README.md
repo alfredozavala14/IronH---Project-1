@@ -1,4 +1,4 @@
-![Jaws movie poster]https://static.wikia.nocookie.net/jaws/images/3/3b/Jaws_blu-ray_movie_1.jpg/revision/latest/scale-to-width-down/340?cb=20131122124857
+![Jaws movie poster](https://static.wikia.nocookie.net/jaws/images/3/3b/Jaws_blu-ray_movie_1.jpg/revision/latest/scale-to-width-down/340?cb=20131122124857)
 
 # IronH---Project-1
 
@@ -8,7 +8,7 @@ AS part of the Data Analytics bootcamp in Ironhack, we have weekly projects that
 
 ## Getting Started
 
-We have downloaded a dataset from [kaggle]https://www.kaggle.com/teajay/global-shark-attacks that includes data on registered shark attacks.
+We have downloaded a dataset from [kaggle](https://www.kaggle.com/teajay/global-shark-attacks) that includes data on registered shark attacks.
 
 ## Hypotheses
 
@@ -43,9 +43,9 @@ To clean the data, I have used various techniques, including:
 
 ## Links & Resources
 
-- [Kaggle data]https://www.kaggle.com/teajay/global-shark-attacks
-- [Pandas documentation]https://pandas.pydata.org/
-- [Numpy documentation]https://numpy.org/doc/1.18/
-- [Regex documentation]https://docs.python.org/3/library/re.html
-- [Matplotlib documentation]https://matplotlib.org/
-- [Seaborn documentation]https://seaborn.pydata.org/
+- [Kaggle data](https://www.kaggle.com/teajay/global-shark-attacks)
+- [Pandas documentation](https://pandas.pydata.org/)
+- [Numpy documentation](https://numpy.org/doc/1.18/)
+- [Regex documentation](https://docs.python.org/3/library/re.html)
+- [Matplotlib documentation](https://matplotlib.org/)
+- [Seaborn documentation](https://seaborn.pydata.org/)
